@@ -27,5 +27,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: Dylan66
             # Text on contribution graph 
-            text: DyLAN
+            text: DYLAN
        - uses: jasineri/simple-push-action@v1
