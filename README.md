@@ -1,6 +1,6 @@
 # Hi there, I'm Dylan Wanganga! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=DealanWanganga&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Dylan66&color=blueviolet)
 
 I'm an **AWS Solutions Architect** and **DevOps Engineer** with a passion for building scalable, cloud-based infrastructures and automating processes to create efficient workflows. With over 2 years of experience, I specialize in:
 
@@ -26,17 +26,17 @@ I'm an **AWS Solutions Architect** and **DevOps Engineer** with a passion for bu
 - Contributed to various open-source projects, helping improve cloud infrastructure configurations.
 
 ### 📫 How to Reach Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/dealanwanganga/)
-- ✉️ [Email](mailto:dealan.wanganga@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dylan-wanganga/)
+- ✉️ [Email](mailto:dylannganga@gmail.com)
 ---
 
 ### 📊 GitHub Stats
 
-![Dealan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DealanWanganga&show_icons=true&theme=radical&count_private=true)
+![Dealan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylan66&show_icons=true&theme=radical&count_private=true)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DealanWanganga&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan66&layout=compact&theme=radical)
 
 ---
 
