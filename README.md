@@ -1,4 +1,4 @@
-# Hi there, I'm Dylan Wanganga! 👋
+# Hi there, I'm Dealan Wanganga! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dylan66&color=blueviolet)
 
